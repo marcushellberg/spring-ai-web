@@ -2,6 +2,8 @@
 
 This is a minimal example of using Vaadin to create a UI for Spring AI.
 
+Check out the [streaming branch](https://github.com/marcushellberg/spring-ai-web/tree/streaming) for a version that uses the OpenAI streaming API.
+
 ## Requirements
 - OpenAI API key saved as an environment variable `OPENAI_API_KEY`
 - Java 21 (or beyond), e.g., by [SDKman](https://sdkman.io) (`sdk u java 21.0.2-tem`)
